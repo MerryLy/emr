@@ -1,0 +1,17 @@
+/.settings
+.settings
+/*.project
+/*.iml
+*.iml
+/*.idea
+*.idea
+*.launch
+*.classpath
+*.project
+*.MF
+*/target
+/target
+*.prefs
+target/
+classes/
+/classes
