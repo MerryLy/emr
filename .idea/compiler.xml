@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="emr-mapper" />
         <module name="emrservice" />
+        <module name="emr-service" />
         <module name="emrmanage" />
         <module name="emrmapper" />
+        <module name="emr-manage" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="emr-manage" options="-parameters" />
+      <module name="emr-mapper" options="-parameters" />
+      <module name="emr-service" options="-parameters" />
       <module name="emrmanage" options="-parameters" />
       <module name="emrmapper" options="-parameters" />
       <module name="emrservice" options="-parameters" />
