@@ -1,0 +1,76 @@
+[2020-04-08 14:04:25,270][main][INFO][com.rf.controller.Application:55] Starting Application on yyw-sh-pc-1451 with PID 26352 (E:\V\emr\emr-manage\target\classes started by meili in E:\V\emr)
+[2020-04-08 14:04:25,276][main][INFO][com.rf.controller.Application:651] No active profile set, falling back to default profiles: default
+[2020-04-08 14:04:25,913][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:92] Tomcat initialized with port(s): 8080 (http)
+[2020-04-08 14:04:25,921][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+[2020-04-08 14:04:25,921][main][INFO][org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+[2020-04-08 14:04:25,922][main][INFO][org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-04-08 14:04:26,025][main][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+[2020-04-08 14:04:26,026][main][INFO][org.springframework.web.context.ContextLoader:284] Root WebApplicationContext: initialization completed in 701 ms
+[2020-04-08 14:04:26,131][main][INFO][org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:181] Initializing ExecutorService 'applicationTaskExecutor'
+[2020-04-08 14:04:26,202][main][INFO][org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:218] Shutting down ExecutorService 'applicationTaskExecutor'
+[2020-04-08 14:04:26,204][main][INFO][org.apache.catalina.core.StandardService:173] Stopping service [Tomcat]
+[2020-04-08 14:04:26,216][main][INFO][org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2020-04-08 14:30:47,907][main][INFO][com.rf.controller.Application:55] Starting Application on yyw-sh-pc-1451 with PID 25472 (E:\V\emr\emr-manage\target\classes started by meili in E:\V\emr)
+[2020-04-08 14:30:47,913][main][INFO][com.rf.controller.Application:651] No active profile set, falling back to default profiles: default
+[2020-04-08 14:30:48,542][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:92] Tomcat initialized with port(s): 8080 (http)
+[2020-04-08 14:30:48,547][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+[2020-04-08 14:30:48,548][main][INFO][org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+[2020-04-08 14:30:48,548][main][INFO][org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-04-08 14:30:48,645][main][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+[2020-04-08 14:30:48,645][main][INFO][org.springframework.web.context.ContextLoader:284] Root WebApplicationContext: initialization completed in 680 ms
+[2020-04-08 14:30:48,749][main][INFO][org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:181] Initializing ExecutorService 'applicationTaskExecutor'
+[2020-04-08 14:30:48,944][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+[2020-04-08 14:30:48,994][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path ''
+[2020-04-08 14:30:48,996][main][INFO][com.rf.controller.Application:61] Started Application in 1.303 seconds (JVM running for 2.483)
+[2020-04-08 14:35:41,623][main][INFO][com.rf.controller.Application:55] Starting Application on yyw-sh-pc-1451 with PID 14556 (E:\V\emr\emr-manage\target\classes started by meili in E:\V\emr)
+[2020-04-08 14:35:41,629][main][INFO][com.rf.controller.Application:651] No active profile set, falling back to default profiles: default
+[2020-04-08 14:35:42,254][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:92] Tomcat initialized with port(s): 8080 (http)
+[2020-04-08 14:35:42,260][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+[2020-04-08 14:35:42,260][main][INFO][org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+[2020-04-08 14:35:42,261][main][INFO][org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-04-08 14:35:42,356][main][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+[2020-04-08 14:35:42,356][main][INFO][org.springframework.web.context.ContextLoader:284] Root WebApplicationContext: initialization completed in 673 ms
+[2020-04-08 14:35:42,461][main][INFO][org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:181] Initializing ExecutorService 'applicationTaskExecutor'
+[2020-04-08 14:35:42,635][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+[2020-04-08 14:35:42,683][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path ''
+[2020-04-08 14:35:42,685][main][INFO][com.rf.controller.Application:61] Started Application in 1.274 seconds (JVM running for 2.46)
+[2020-04-08 14:36:11,219][http-nio-8080-exec-1][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-04-08 14:36:11,220][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:525] Initializing Servlet 'dispatcherServlet'
+[2020-04-08 14:36:11,223][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:547] Completed initialization in 3 ms
+[2020-04-08 14:36:11,236][http-nio-8080-exec-1][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:37:54,128][main][INFO][com.rf.controller.Application:55] Starting Application on yyw-sh-pc-1451 with PID 22484 (E:\V\emr\emr-manage\target\classes started by meili in E:\V\emr)
+[2020-04-08 14:37:54,134][main][INFO][com.rf.controller.Application:651] No active profile set, falling back to default profiles: default
+[2020-04-08 14:37:54,750][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:92] Tomcat initialized with port(s): 8080 (http)
+[2020-04-08 14:37:54,756][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+[2020-04-08 14:37:54,757][main][INFO][org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+[2020-04-08 14:37:54,757][main][INFO][org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-04-08 14:37:54,850][main][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+[2020-04-08 14:37:54,851][main][INFO][org.springframework.web.context.ContextLoader:284] Root WebApplicationContext: initialization completed in 667 ms
+[2020-04-08 14:37:54,954][main][INFO][org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:181] Initializing ExecutorService 'applicationTaskExecutor'
+[2020-04-08 14:37:55,125][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+[2020-04-08 14:37:55,177][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path ''
+[2020-04-08 14:37:55,179][main][INFO][com.rf.controller.Application:61] Started Application in 1.252 seconds (JVM running for 2.442)
+[2020-04-08 14:38:09,934][http-nio-8080-exec-1][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-04-08 14:38:09,934][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:525] Initializing Servlet 'dispatcherServlet'
+[2020-04-08 14:38:09,938][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:547] Completed initialization in 4 ms
+[2020-04-08 14:38:09,951][http-nio-8080-exec-1][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:38:10,632][http-nio-8080-exec-4][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:38:10,815][http-nio-8080-exec-7][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:38:10,983][http-nio-8080-exec-9][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:38:11,159][http-nio-8080-exec-10][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:43:43,480][http-nio-8080-exec-8][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:30,150][http-nio-8080-exec-2][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:30,527][http-nio-8080-exec-5][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:30,711][http-nio-8080-exec-1][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:31,071][http-nio-8080-exec-4][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:31,247][http-nio-8080-exec-7][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:31,415][http-nio-8080-exec-9][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:31,591][http-nio-8080-exec-10][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:31,767][http-nio-8080-exec-6][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:31,943][http-nio-8080-exec-3][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 14:44:32,153][http-nio-8080-exec-8][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 15:04:55,878][http-nio-8080-exec-3][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 15:04:56,398][http-nio-8080-exec-8][INFO][com.rf.controller.TestController:21] heheh
+[2020-04-08 15:04:56,605][http-nio-8080-exec-5][INFO][com.rf.controller.TestController:21] heheh

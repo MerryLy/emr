@@ -1,5 +1,7 @@
 package com.rf.controller;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -12,8 +14,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TestController {
 
+    private final Logger logger = LogManager.getLogger(this.getClass());
+
     @RequestMapping(value = "/")
     String home() {
-        return "Hello World!";
+        logger.info("Welcome to the new world!");
+        return "Welcome to the new world!";
     }
 }
