@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d93a0d8e-2ded-454b-b8b4-49d4846a4f83" name="Default Changelist" comment="" />
+    <list default="true" id="d93a0d8e-2ded-454b-b8b4-49d4846a4f83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +240,7 @@
       <workItem from="1585641842928" duration="2767000" />
       <workItem from="1586239748588" duration="4505000" />
       <workItem from="1586253700110" duration="16512000" />
-      <workItem from="1587630318100" duration="16012000" />
+      <workItem from="1587630318100" duration="17600000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <created>1585470053716</created>
@@ -266,10 +268,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Tomcat_Server/0.0.1920.1040@0.0.1920.1040" timestamp="1587633251231" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587693528779">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587699155853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587693528779" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587699155853" />
     <state x="552" y="178" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1587633269357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
